@@ -56,7 +56,7 @@ exports.create = async (req, res) => {
 // Retrieve all Payouts from the database.
 exports.findAll = async(req, res) => {
     try {
-      const userId = req.params.id;
+      const userId = req.user._id;
       const payouts = await Batches.find({ userId });
         res.status(200).json(payouts);
       } catch (error) {

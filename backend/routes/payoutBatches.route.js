@@ -7,7 +7,7 @@ const { authenticateToken } = require('../middleware/auth.middleware');
 router.post('/add',authenticateToken, create);
 
 // Retrieve all Payouts
-router.get('/getAll/:id',authenticateToken, findAll);
+router.get('/getAll',authenticateToken, findAll);
 
 // Retrieve a single Payout with id
 router.get('/get/:id',authenticateToken,findOne);
