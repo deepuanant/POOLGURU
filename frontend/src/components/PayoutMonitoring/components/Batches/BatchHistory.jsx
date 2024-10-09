@@ -3,19 +3,17 @@ import { FiLoader } from "react-icons/fi";
 import { getAllBatches } from "../../../../api/servicesapi";
 import ModalforBatches from "./ModalforBatches";
 import toast from "react-hot-toast";
-import { useSelector } from "react-redux";
 
 const BatchHistory = ({ isOpen, onClose }) => {
   const [batches, setBatches] = useState([]);
   const [accordionData, setAccordionData] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
-  const user = useSelector((state) => state.user);
 
   useEffect(() => {
     const fetchBatches = async () => {
       setIsLoading(true);
       try {
-        const response = await getAllBatches(user.id);
+        const response = await getAllBatches();
         const fetchedBatches = response.data;
 
         // console.log("this is my response" , response)

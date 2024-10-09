@@ -26,12 +26,12 @@ export const createBatch = async (status, phases, userId) => {
 };
 
 // Retrieve all Batches API
-export const getAllBatches = async (id) => {
+export const getAllBatches = async () => {
     try {
         const headers = {
             Authorization: `Bearer ${localStorage.getItem("token")}`,
         };
-        const response = await axios.get(`${host}/api/v1/payoutbatches/getAll/${id}`, {
+        const response = await axios.get(`${host}/api/v1/payoutbatches/getAll`, {
             headers,
         });
         return response;
