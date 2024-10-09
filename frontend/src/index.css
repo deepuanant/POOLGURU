@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media print {
+  .page-break {
+    page-break-before: always;
+  }
+
+  .print-header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100px; /* Adjust based on your header height */
+    background: white; /* Ensure background is white */
+    z-index: 1000; /* Ensure it stays on top */
+  }
+
+  .print-footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 50px; /* Adjust based on your footer height */
+    background: white; /* Ensure background is white */
+    z-index: 1000; /* Ensure it stays on top */
+  }
+
+  .report-content {
+    margin-top: 120px; /* Adjust margin to avoid overlap with header */
+    margin-bottom: 70px; /* Adjust for footer */
+  }
+  table {
+    width: 80%;
+    top: 25px;
+    margin: auto;
+    table-layout: fixed;
+    word-wrap: break-word;
+  }
+  
+}
+
+
+
+
+
+
+/* Custom scrollbar styles for WebKit browsers (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+  width: 12px; /* Width of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1; /* Background of the scrollbar track */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #808080; /* Grey color for the scrollbar thumb */
+  border-radius: 10px; /* Rounded corners for the scrollbar thumb */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #b9b5b5;
+}
+
+/* Custom scrollbar styles for Firefox */
+html {
+  scrollbar-width: thin; /* Makes the scrollbar thinner */
+  scrollbar-color: #c4bdbd #f1f1f1;
+}
+
+@layer utilities {
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  .no-scrollbar::-webkit-scrollbar {
+      display: none;
+  }
+ /* Hide scrollbar for IE, Edge and Firefox */
+  .no-scrollbar {
+      -ms-overflow-style: none;  /* IE and Edge */
+      scrollbar-width: none;  /* Firefox */
+}
+}

@@ -1,0 +1,948 @@
+{
+  "timestamp": 1727695122622,
+  "data": [
+    {
+      "url": "https://www.marketwatch.com/story/at-t-to-sell-controlling-stake-in-directv-to-tpg-for-about-7-6-billion-in-cash-payments-through-2029-50dab8d3",
+      "img": "https://cdn.snapi.dev/images/v1/t/y/communication40-2669365.jpg",
+      "title": "AT&T to sell controlling stake in DirecTV to TPG for $7.6 billion in cash payments through 2029",
+      "text": "Move clears the way for DirecTV to pursue a merger with rival pay-TV company Dish",
+      "source": "Market Watch",
+      "type": "Article",
+      "tickers": [
+        "$T",
+        "$TPG"
+      ],
+      "time": "Sep 30, 2024, 7:05 AM EDT",
+      "ago": "13 minutes ago"
+    },
+    {
+      "url": "https://www.reuters.com/business/retail-consumer/mercadolibre-latams-amazoncom-rival-rides-high-with-ai-loans-drones-2024-09-30/",
+      "img": "https://cdn.snapi.dev/images/v1/c/t/catalog-mail4-2669371.jpg",
+      "title": "Focus: MercadoLibre, Latam's Amazon.com rival, rides high with AI, loans, drones",
+      "text": "When Wagner Dias and his wife Mariana needed a loan to grow their children's clothes business, the Brazilian entrepreneurs turned to Argentina's MercadoLibre Inc , the online platform they use to sell...",
+      "source": "Reuters",
+      "type": "Article",
+      "tickers": [
+        "$AMZN",
+        "$MELI"
+      ],
+      "time": "Sep 30, 2024, 7:03 AM EDT",
+      "ago": "15 minutes ago"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/oil-prices-slip-as-traders-shake-off-prospect-of-wider-middle-east-conflict-4617706b",
+      "img": "https://cdn.snapi.dev/images/v1/z/2/oil23-2475968-2669357.jpg",
+      "title": "Oil prices slip as traders shake off prospect of wider Middle East conflict",
+      "text": "Oil traders were shrugging off the risk of a wider Middle Eastern conflict that could threaten crude supplies.",
+      "source": "Market Watch",
+      "type": "Article",
+      "tickers": [
+        "#BNO",
+        "#DBO",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 30, 2024, 7:02 AM EDT",
+      "ago": "16 minutes ago"
+    },
+    {
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/09/30/teslas-trump/",
+      "img": "https://cdn.snapi.dev/images/v1/d/5/musks-trump-card-will-tesla-be-2669359.jpg",
+      "title": "Musk's Trump Card: Will Tesla Be Boosted Or Totaled?",
+      "text": "It's no secret that Donald Trump admires Tesla CEO Elon Musk—and perhaps more importantly, values the votes Musk might bring from his passionate fan base. Musk, in turn, has reciprocated the sentiment...",
+      "source": "Forbes",
+      "type": "Article",
+      "tickers": [
+        "$TSLA",
+        "#DBO",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 30, 2024, 7:00 AM EDT",
+      "ago": "18 minutes ago"
+    },
+    {
+      "url": "https://www.wsj.com/articles/epic-games-to-sue-google-samsung-over-alleged-app-store-scheme-e1744d35?mod=rss_Technology",
+      "img": "https://cdn.snapi.dev/images/v1/y/p/goog9-2474118-2669358.jpg",
+      "title": "Epic Games to Sue Google, Samsung Over Alleged App-Store Scheme",
+      "text": "The “Fortnite” maker claims the tech giants colluded to place onerous restrictions on app stores created after Google lost an antitrust case.",
+      "source": "WSJ",
+      "type": "Article",
+      "tickers": [
+        "$GOOG",
+        "$GOOGL",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 30, 2024, 7:00 AM EDT",
+      "ago": "18 minutes ago"
+    },
+    {
+      "url": "https://www.reuters.com/business/retail-consumer/nike-post-steepest-sales-drop-since-covid-analysts-expect-target-reset-2024-09-30/",
+      "img": "https://cdn.snapi.dev/images/v1/1/v/nke25-2383979-2669373.jpg",
+      "title": "Nike to post steepest sales drop since COVID, analysts expect target reset",
+      "text": "Investors and analysts expect Nike to lower annual forecasts on Tuesday when it posts quarterly results, the company's first earnings report since announcing a new CEO earlier this month.",
+      "source": "Reuters",
+      "type": "Article",
+      "tickers": [
+        "$NKE",
+        "$GOOGL",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 30, 2024, 6:59 AM EDT",
+      "ago": "19 minutes ago"
+    },
+    {
+      "url": "https://www.benzinga.com/news/earnings/24/09/41088357/acuity-brands-gears-up-for-q4-print-here-are-the-recent-forecast-changes-from-wall-streets-most-acc?utm_source=snapi",
+      "img": "https://cdn.snapi.dev/images/v1/i/0/computer-electronic23-2669377.jpg",
+      "title": "Acuity Brands Gears Up For Q4 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts",
+      "text": "Acuity Brands, Inc. AYI will release earnings results for its fourth quarter, before the opening bell on Tuesday, Oct. 1.",
+      "source": "Benzinga",
+      "type": "Article",
+      "tickers": [
+        "$AYI",
+        "$GOOGL",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 30, 2024, 6:56 AM EDT",
+      "ago": "22 minutes ago"
+    },
+    {
+      "url": "https://www.reuters.com/markets/commodities/oil-forecasts-cut-5th-straight-month-demand-opec-uncertainty-2024-09-30/",
+      "img": "https://cdn.snapi.dev/images/v1/c/8/oil15-2477964-2669288.jpg",
+      "title": "Oil forecasts cut for 5th straight month on demand, OPEC uncertainty",
+      "text": "Analysts have cut their 2024 oil price forecasts for a fifth consecutive month, citing weaker demand and uncertainty over OPEC's plans, with prices expected to remain under pressure despite geopolitic...",
+      "source": "Reuters",
+      "type": "Article",
+      "tickers": [
+        "#BNO",
+        "#DBO",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 30, 2024, 6:54 AM EDT",
+      "ago": "24 minutes ago"
+    },
+    {
+      "url": "https://www.reuters.com/business/media-telecom/verizon-nears-deal-sell-towers-vertical-bridge-bloomberg-news-reports-2024-09-30/",
+      "img": "https://cdn.snapi.dev/images/v1/y/g/vz22-2395932-2669271.jpg",
+      "title": "Verizon nears deal to sell towers to Vertical Bridge, Bloomberg News reports",
+      "text": "Verizon Communications is in advanced talks to sell thousands of mobile phone towers to digital infrastructure firm Vertical Bridge, Bloomberg News reported on Monday, citing people familiar with the ...",
+      "source": "Reuters",
+      "type": "Article",
+      "tickers": [
+        "$VZ",
+        "#DBO",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 30, 2024, 6:43 AM EDT",
+      "ago": "35 minutes ago"
+    },
+    {
+      "url": "https://www.reuters.com/technology/artificial-intelligence/spains-merlin-properties-bets-ai-boom-drive-revenue-growth-2024-09-30/",
+      "img": "https://cdn.snapi.dev/images/v1/o/n/reit34-2669264.jpg",
+      "title": "Spain's Merlin Properties bets on AI boom to drive revenue growth",
+      "text": "Spanish real estate group Merlin Properties expects its fledgling data centre business to account for about 40% of its revenue by 2030 as it taps into a boom in artificial intelligence, CEO Ismael Cle...",
+      "source": "Reuters",
+      "type": "Article",
+      "tickers": [
+        "$VZ",
+        "#DBO",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 30, 2024, 6:39 AM EDT",
+      "ago": "39 minutes ago"
+    },
+    {
+      "url": "https://www.reuters.com/business/media-telecom/att-sells-70-stake-directv-tpg-76-bln-2024-09-30/",
+      "img": "https://cdn.snapi.dev/images/v1/x/n/communication39-2669246.jpg",
+      "title": "AT&T sells 70% stake in DirecTV to TPG for $7.6 bln",
+      "text": "AT&T said on Monday it would sell its 70% stake in satellite TV service DirecTV to private equity firm TPG for $7.6 billion, exiting a business marked by declining distributions for the telecom operat...",
+      "source": "Reuters",
+      "type": "Article",
+      "tickers": [
+        "$T",
+        "$TPG",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 30, 2024, 6:23 AM EDT",
+      "ago": "55 minutes ago"
+    },
+    {
+      "url": "https://www.reuters.com/business/autos-transportation/european-autos-stocks-wipe-off-10-bln-after-stellantis-warning-2024-09-30/",
+      "img": "https://cdn.snapi.dev/images/v1/n/9/vfedx-2581066-2669223.jpg",
+      "title": "European autos stocks wipe off $10 bln after Stellantis warning",
+      "text": "European auto stocks tumbled almost 4% on Monday after a warning from Stellantis, Volkswagen and Aston rekindled concerns over the sector's earnings outlook in a year marred by slowing demand and aggr...",
+      "source": "Reuters",
+      "type": "Article",
+      "tickers": [
+        "$STLA",
+        "$TPG",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 30, 2024, 6:09 AM EDT",
+      "ago": "1 hour ago"
+    },
+    {
+      "url": "https://www.reuters.com/business/aerospace-defense/boeing-suppliers-fear-long-term-jobs-hit-strike-2024-09-30/",
+      "img": "https://cdn.snapi.dev/images/v1/j/c/ba16-2479776-2669208.jpg",
+      "title": "Focus: Boeing suppliers fear long-term jobs hit from strike",
+      "text": "Boeing's two-week-old strike has forced aerospace supplier Pathfinder Manufacturing to furlough 14 out of the company's 54 employees, and CEO Dave Trader fears he may need to send more home if the sto...",
+      "source": "Reuters",
+      "type": "Article",
+      "tickers": [
+        "$BA",
+        "$TPG",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 30, 2024, 6:04 AM EDT",
+      "ago": "1 hour ago"
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/jpmorgans-jamie-premium-be-tested-ceo-succession-looms-2024-09-30/",
+      "img": "https://cdn.snapi.dev/images/v1/s/7/chhase2-2472376-2669219.jpg",
+      "title": "Focus: JPMorgan's 'Jamie premium' to be tested as CEO succession looms",
+      "text": "Questions hang over who will succeed JPMorgan Chase CEO Jamie Dimon and when, but analysts and investors say one thing is almost certain: the bank's stock will slump when the powerful bank chief event...",
+      "source": "Reuters",
+      "type": "Article",
+      "tickers": [
+        "$JPM",
+        "$TPG",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 30, 2024, 6:03 AM EDT",
+      "ago": "1 hour ago"
+    },
+    {
+      "url": "https://www.forbes.com/sites/greatspeculations/2024/09/30/microns-stellar-q4-boosts-outlook-for-amd-and-key-tech-stocks/",
+      "img": "https://cdn.snapi.dev/images/v1/i/g/microns-stellar-q4-boosts-outl-2669207.jpg",
+      "title": "Micron's Stellar Q4 Boosts Outlook For AMD And Key Tech Stocks",
+      "text": "Our theme of Internet Infrastructure Stocks which includes companies that sell hardware and software for server processors, graphics units, memory, and networking equipment, has returned about 31% yea...",
+      "source": "Forbes",
+      "type": "Article",
+      "tickers": [
+        "$MU",
+        "$TPG",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 30, 2024, 6:00 AM EDT",
+      "ago": "1 hour ago"
+    },
+    {
+      "url": "https://www.barrons.com/articles/ford-gm-stock-price-4290883e",
+      "img": "https://cdn.snapi.dev/images/v1/2/k/auto12-2669198.jpg",
+      "title": "Ford, GM Stocks fall 3% After Jeep Maker Stellantis Warns About China Competition",
+      "text": "The auto manufacturer revised down its 2024 financial guidance, citing deteriorating industry dynamics",
+      "source": "Barrons",
+      "type": "Article",
+      "tickers": [
+        "$F",
+        "$GM",
+        "$STLA",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 30, 2024, 5:59 AM EDT",
+      "ago": "1 hour ago"
+    },
+    {
+      "url": "https://www.fxempire.com/forecasts/article/gold-xau-price-forecast-bullish-momentum-or-breakdown-market-awaits-fed-and-jobs-data-1464939",
+      "img": "https://cdn.snapi.dev/images/v1/m/n/gold23-2478539-2669217.jpg",
+      "title": "Gold (XAU) Price Forecast: Bullish Momentum or Breakdown? Market Awaits Fed and Jobs Data",
+      "text": "Gold prices drop for a second session, pressured by rising Treasury yields and inflation data. A potential rally to $2,700 hinges on upcoming U.S. labor reports.",
+      "source": "FXEmpire",
+      "type": "Article",
+      "tickers": [
+        "#AAAU",
+        "#BAR",
+        "#DBP",
+        "#GLD",
+        "#GLDM",
+        "#IAU",
+        "#OUNZ"
+      ],
+      "time": "Sep 30, 2024, 5:58 AM EDT",
+      "ago": "1 hour ago"
+    },
+    {
+      "url": "https://www.barrons.com/articles/nvidia-stock-china-chips-broadcom-243f6f9d",
+      "img": "https://cdn.snapi.dev/images/v1/d/t/nvdd4-2485362-2669175.jpg",
+      "title": "Nvidia Stock Falls. China Just Made This Move.",
+      "text": "China urged local companies to stay away from Nvidia's chips, according to a report, while it's promoting domestic chip makers.",
+      "source": "Barrons",
+      "type": "Article",
+      "tickers": [
+        "$NVDA",
+        "#BAR",
+        "#DBP",
+        "#GLD",
+        "#GLDM",
+        "#IAU",
+        "#OUNZ"
+      ],
+      "time": "Sep 30, 2024, 5:51 AM EDT",
+      "ago": "1 hour ago"
+    },
+    {
+      "url": "https://www.reuters.com/technology/artificial-intelligence/dnex-google-cloud-sign-multi-year-deal-provide-sovereign-cloud-services-malaysia-2024-09-30/",
+      "img": "https://cdn.snapi.dev/images/v1/a/y/goog2-2479400-2669140.jpg",
+      "title": "DNeX, Google Cloud sign multi-year deal to provide sovereign cloud services in Malaysia",
+      "text": "Malaysian technology firm Dagang NeXchange Berhad (DNeX) and Google Cloud on Monday announced a multi-year deal to provide sovereign cloud services in the country.",
+      "source": "Reuters",
+      "type": "Article",
+      "tickers": [
+        "$GOOG",
+        "$GOOGL",
+        "#DBP",
+        "#GLD",
+        "#GLDM",
+        "#IAU",
+        "#OUNZ"
+      ],
+      "time": "Sep 30, 2024, 5:38 AM EDT",
+      "ago": "1 hour ago"
+    },
+    {
+      "url": "https://www.reuters.com/legal/epic-games-accuses-samsung-google-scheme-block-app-rivals-2024-09-30/",
+      "img": "https://cdn.snapi.dev/images/v1/u/m/goog20-2480397-2669137.jpg",
+      "title": "Epic Games accuses Samsung, Google of scheme to block app rivals",
+      "text": "“Fortnite” video game maker Epic Games on Monday accused Alphabet's Google and Samsung , the world's largest Android phone manufacturer, of conspiring to protect Google's Play store from competition.",
+      "source": "Reuters",
+      "type": "Article",
+      "tickers": [
+        "$GOOG",
+        "$GOOGL",
+        "#DBP",
+        "#GLD",
+        "#GLDM",
+        "#IAU",
+        "#OUNZ"
+      ],
+      "time": "Sep 30, 2024, 5:34 AM EDT",
+      "ago": "1 hour ago"
+    },
+    {
+      "url": "https://invezz.com/news/2024/09/30/stellantis-plunges-14-after-lowering-forecast-whats-driving-the-struggles/?utm_source=snapi",
+      "img": "https://cdn.snapi.dev/images/v1/n/j/ste9-2605988-2669282.jpg",
+      "title": "Stellantis plunges 14% after lowering forecast: what's driving the struggles?",
+      "text": "Stellantis NV lowered its annual forecasts on Monday, citing increasing costs related to restructuring its US business and intensifying competition from Chinese electric vehicle (EV) makers, triggerin...",
+      "source": "Invezz",
+      "type": "Article",
+      "tickers": [
+        "$STLA",
+        "$GOOGL",
+        "#DBP",
+        "#GLD",
+        "#GLDM",
+        "#IAU",
+        "#OUNZ"
+      ],
+      "time": "Sep 30, 2024, 5:33 AM EDT",
+      "ago": "1 hour ago"
+    },
+    {
+      "url": "https://www.fxempire.com/forecasts/article/oil-news-middle-east-tensions-drive-prices-higher-as-demand-fears-persist-1464909",
+      "img": "https://cdn.snapi.dev/images/v1/c/g/oil4-2480372-2669138.jpg",
+      "title": "Oil News: Middle East Tensions Drive Prices Higher as Demand Fears Persist",
+      "text": "Oil prices climb on Middle East conflict, but weak China demand continues to weigh on the crude oil outlook as traders eye key technical levels and OPEC production.",
+      "source": "FXEmpire",
+      "type": "Article",
+      "tickers": [
+        "#BNO",
+        "#DBO",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 30, 2024, 5:29 AM EDT",
+      "ago": "1 hour ago"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/billionaire-snap-ceo-sells-l-a-mansion-after-cutting-4-million-off-the-price-59577e80",
+      "img": "https://cdn.snapi.dev/images/v1/n/d/software20-2669119.jpg",
+      "title": "Billionaire Snap CEO sells L.A. mansion after cutting $4 million off the price",
+      "text": "Evan Spiegel can toast to another (semi) successful deal after finally securing a buyer for his Brentwood mansion.",
+      "source": "Market Watch",
+      "type": "Article",
+      "tickers": [
+        "$SNAP",
+        "#DBO",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 30, 2024, 5:03 AM EDT",
+      "ago": "2 hours ago"
+    },
+    {
+      "url": "https://www.barrons.com/articles/nio-stock-china-investment-stimulus-4a236e4a",
+      "img": "https://cdn.snapi.dev/images/v1/u/u/auto11-2669106.jpg",
+      "title": "NIO Stock Surges. The Chinese EV Maker Gets $2 Billion New Investment.",
+      "text": "EV shares have had a bumpy year as demand cooled for the vehicles and China's economy struggled.",
+      "source": "Barrons",
+      "type": "Article",
+      "tickers": [
+        "$NIO",
+        "#DBO",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 30, 2024, 4:46 AM EDT",
+      "ago": "2 hours ago"
+    },
+    {
+      "url": "https://invezz.com/news/2024/09/30/as-the-ihg-share-price-soars-does-it-have-more-upside/?utm_source=snapi",
+      "img": "https://cdn.snapi.dev/images/v1/e/j/entertainment-lodging9-2669181.jpg",
+      "title": "As the IHG share price soars, does it have more upside?",
+      "text": "Intercontinental Hotels Group (IHG) share price has done well this year, rising by over 24% in London. It soared to a high of 8,345p, its highest point since July 17, while its American ADR has jumped...",
+      "source": "Invezz",
+      "type": "Article",
+      "tickers": [
+        "$IHG",
+        "#DBO",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 30, 2024, 4:43 AM EDT",
+      "ago": "2 hours ago"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/aston-martin-shares-fall-25-after-warning-blamed-on-supply-disruptions-china-1d128bb1",
+      "img": "https://cdn.snapi.dev/images/v1/i/w/auto9-2669104.jpg",
+      "title": "Aston Martin shares fall 25% after warning blamed on supply disruptions, China",
+      "text": "The British car manufacturer said it expects to sell 1,000 fewer cars than previously anticipated due to delays at several of its suppliers",
+      "source": "Market Watch",
+      "type": "Article",
+      "tickers": [
+        "$IHG",
+        "#DBO",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 30, 2024, 4:39 AM EDT",
+      "ago": "2 hours ago"
+    },
+    {
+      "url": "https://techxplore.com/news/2024-09-epic-games-sues-google-samsung.html",
+      "img": "https://cdn.snapi.dev/images/v1/d/r/goog37-224271-2669102.jpg",
+      "title": "Epic Games sues Google and Samsung over app store",
+      "text": "Fortnite-maker Epic Games is suing tech giants Google and Samsung, it announced Monday, accusing them of illegally colluding to block competition on Samsung devices.",
+      "source": "TechXplore",
+      "type": "Article",
+      "tickers": [
+        "$GOOG",
+        "$GOOGL",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 30, 2024, 4:37 AM EDT",
+      "ago": "2 hours ago"
+    },
+    {
+      "url": "https://www.cnbc.com/2024/09/30/oil-markets-not-pricing-in-an-all-out-war-after-israel-kills-hezbollah-leader-but-risks-persist.html",
+      "img": "https://cdn.snapi.dev/images/v1/z/p/oil30-2474916-2669092.jpg",
+      "title": "Oil markets not pricing in an 'all-out war' after Israel kills Hezbollah leader, but risks persist",
+      "text": "Oil prices didn't react sharply after Hezbollah confirmed that its leader was killed on Friday in an Israeli airstrike in the Lebanese capital of Beirut. Global benchmark Brent added 1.56% to $73.10 a...",
+      "source": "CNBC",
+      "type": "Article",
+      "tickers": [
+        "#BNO",
+        "#DBO",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 30, 2024, 4:08 AM EDT",
+      "ago": "3 hours ago"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/chinese-stocks-soar-again-on-hopes-for-further-stimulus-acf00130",
+      "img": "https://cdn.snapi.dev/images/v1/w/e/specialty8-2669088.jpg",
+      "title": "Chinese stocks soar again on hopes for further stimulus",
+      "text": "Chinese stocks soared on Monday, extending gains for the beleaguered asset class on hopes policymakers will pair their monetary support with fiscal policy action.",
+      "source": "Market Watch",
+      "type": "Article",
+      "tickers": [
+        "$BABA",
+        "$BIDU",
+        "#FXI",
+        "$JD",
+        "#KWEB",
+        "#MCHI",
+        "$PDD"
+      ],
+      "time": "Sep 30, 2024, 3:58 AM EDT",
+      "ago": "3 hours ago"
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/uks-petrofac-plummets-half-yearly-losses-surge-2024-09-30/",
+      "img": "https://cdn.snapi.dev/images/v1/n/p/oil43-2669085.jpg",
+      "title": "UK's Petrofac plummets as half-yearly losses surge",
+      "text": "Shares of British oilfield services provider Petrofac dropped 33% on Monday after the company reported a bigger half-yearly losses, amid difficulties in closing legacy contracts in its biggest divisio...",
+      "source": "Reuters",
+      "type": "Article",
+      "tickers": [
+        "$BABA",
+        "$BIDU",
+        "#FXI",
+        "$JD",
+        "#KWEB",
+        "#MCHI",
+        "$PDD"
+      ],
+      "time": "Sep 30, 2024, 3:51 AM EDT",
+      "ago": "3 hours ago"
+    },
+    {
+      "url": "https://invezz.com/news/2024/09/30/baidu-stock-is-extremely-cheap-but-one-key-risk-remain/?utm_source=snapi",
+      "img": "https://cdn.snapi.dev/images/v1/0/z/data-internet14-2669111.jpg",
+      "title": "Baidu stock is extremely cheap, but one key risk remain",
+      "text": "Baidu (BIDU) stock price has recovered modestly in the past few days, helped by the strong comeback of Chinese and global equities. It surged to a high of $107.67 on Monday, its highest swing since Ma...",
+      "source": "Invezz",
+      "type": "Article",
+      "tickers": [
+        "$BIDU",
+        "$BIDU",
+        "#FXI",
+        "$JD",
+        "#KWEB",
+        "#MCHI",
+        "$PDD"
+      ],
+      "time": "Sep 30, 2024, 3:25 AM EDT",
+      "ago": "3 hours ago"
+    },
+    {
+      "url": "https://www.reuters.com/business/media-telecom/kkr-backed-malaysian-telecom-infrastructure-group-oms-revisit-ipo-plan-2024-09-30/",
+      "img": "https://cdn.snapi.dev/images/v1/1/2/asset-management18-2669076.jpg",
+      "title": "KKR-backed Malaysian telecom infrastructure group OMS to revisit IPO plan",
+      "text": "Malaysian telecom infrastructure and subsea cable services company OMS Group will revisit its plan for an initial public offering in the next few years and is not ruling out a listing on the domestic ...",
+      "source": "Reuters",
+      "type": "Article",
+      "tickers": [
+        "$KKR",
+        "$BIDU",
+        "#FXI",
+        "$JD",
+        "#KWEB",
+        "#MCHI",
+        "$PDD"
+      ],
+      "time": "Sep 30, 2024, 3:21 AM EDT",
+      "ago": "3 hours ago"
+    },
+    {
+      "url": "https://www.cnbc.com/2024/09/30/dodge-maker-stellantis-drops-profit-warning.html",
+      "img": "https://cdn.snapi.dev/images/v1/a/q/3rff-2581537-2669071.jpg",
+      "title": "Shares of Dodge-maker Stellantis drop 8% after it issues profit warning",
+      "text": "The French-Italian conglomerate, known for brands such as Chrysler, Dodge, Jeep and Maserati, warned of lower-than-expected sales \"across most regions\" in the second half of the year. It now pencils i...",
+      "source": "CNBC",
+      "type": "Article",
+      "tickers": [
+        "$STLA",
+        "$BIDU",
+        "#FXI",
+        "$JD",
+        "#KWEB",
+        "#MCHI",
+        "$PDD"
+      ],
+      "time": "Sep 30, 2024, 3:17 AM EDT",
+      "ago": "4 hours ago"
+    },
+    {
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/grifols-plans-invest-402-million-new-industrial-centre-el-economista-says-2024-09-30/",
+      "img": "https://cdn.snapi.dev/images/v1/7/9/biotech9-2669067.jpg",
+      "title": "Grifols plans to invest $402 million in new industrial centre, El Economista says",
+      "text": "Spanish drugmaker Grifols plans to invest 360 million euros ($401.98 million) to build a new industrial plant in Barcelona for its engineering department, newspaper El Economista said on Monday, citin...",
+      "source": "Reuters",
+      "type": "Article",
+      "tickers": [
+        "$GRFS",
+        "$BIDU",
+        "#FXI",
+        "$JD",
+        "#KWEB",
+        "#MCHI",
+        "$PDD"
+      ],
+      "time": "Sep 30, 2024, 3:12 AM EDT",
+      "ago": "4 hours ago"
+    },
+    {
+      "url": "https://www.fxempire.com/forecasts/article/gold-xau-daily-forecast-will-chinas-stimulus-and-weak-usd-support-gold-prices-1464873",
+      "img": "https://cdn.snapi.dev/images/v1/r/z/gold22-2478538-2669073.jpg",
+      "title": "Gold (XAU) Daily Forecast: Will China's Stimulus and Weak USD Support Gold Prices?",
+      "text": "Gold prices remain under pressure as China's stimulus and a weaker USD fail to boost demand. Will geopolitical risks support a reversal?",
+      "source": "FXEmpire",
+      "type": "Article",
+      "tickers": [
+        "$CPRI",
+        "$TPR",
+        "#GLD",
+        "#GLDM",
+        "#IAU",
+        "#OUNZ",
+        "#UGL"
+      ],
+      "time": "Sep 30, 2024, 3:06 AM EDT",
+      "ago": "4 hours ago"
+    },
+    {
+      "url": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-can-opec-cuts-and-geopolitical-risks-boost-prices-1464876",
+      "img": "https://cdn.snapi.dev/images/v1/u/c/oil7-2479310-2669054.jpg",
+      "title": "Natural Gas and Oil Forecast: Can OPEC+ Cuts and Geopolitical Risks Boost Prices?",
+      "text": "Rising geopolitical tensions and OPEC+ supply cuts could push prices higher. Are these the catalysts for a bullish trend?",
+      "source": "FXEmpire",
+      "type": "Article",
+      "tickers": [
+        "#BNO",
+        "#DBO",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 30, 2024, 2:47 AM EDT",
+      "ago": "4 hours ago"
+    },
+    {
+      "url": "https://www.fxempire.com/forecasts/article/powells-speech-could-break-fed-rate-cut-deadlock-gold-traders-on-alert-1464859",
+      "img": "https://cdn.snapi.dev/images/v1/1/b/gold25-2478109-2669055.jpg",
+      "title": "Powell's Speech Could Break Fed Rate Cut Deadlock; Gold Traders on Alert",
+      "text": "Fed officials split on rate cut pace. Powell's speech could break deadlock, reshaping November expectations.",
+      "source": "FXEmpire",
+      "type": "Article",
+      "tickers": [
+        "#AAAU",
+        "#BAR",
+        "#DBP",
+        "#GLD",
+        "#GLDM",
+        "#IAU",
+        "#OUNZ",
+        "#UGL"
+      ],
+      "time": "Sep 30, 2024, 2:38 AM EDT",
+      "ago": "4 hours ago"
+    },
+    {
+      "url": "https://www.reuters.com/business/autos-transportation/aston-martin-warns-lower-profit-supply-chain-china-woes-2024-09-30/",
+      "img": "https://cdn.snapi.dev/images/v1/6/u/auto7-2669043.jpg",
+      "title": "Aston Martin warns of lower profit on supply chain, China woes",
+      "text": "British luxury carmaker Aston Martin on Monday warned of lower annual core profit and said it no longer expects to achieve positive free cash flow in the first half, citing supply chain disruptions an...",
+      "source": "Reuters",
+      "type": "Article",
+      "tickers": [
+        "#AAAU",
+        "#BAR",
+        "#DBP",
+        "#GLD",
+        "#GLDM",
+        "#IAU",
+        "#OUNZ",
+        "#UGL"
+      ],
+      "time": "Sep 30, 2024, 2:10 AM EDT",
+      "ago": "5 hours ago"
+    },
+    {
+      "url": "https://www.youtube-nocookie.com/embed/6r-ud2-fY9U",
+      "img": "https://cdn.snapi.dev/images/v1/u/9/hsbc-the-malaysian-ringgit-is-boosted-by-central-bank-policy-and-promising-structural-reform-2669038.jpg",
+      "title": "HSBC: the Malaysian Ringgit is boosted by central bank policy and 'promising' structural reform",
+      "text": "Yun Liu of HSBC says Malaysia's economic growth is 'on fire at all fronts', and discusses strength of the ringgit and increasing amount of Chinese investments into the country specifically related to ...",
+      "source": "CNBC International TV",
+      "type": "Video",
+      "tickers": [
+        "$HSBC",
+        "#BAR",
+        "#DBP",
+        "#GLD",
+        "#GLDM",
+        "#IAU",
+        "#OUNZ",
+        "#UGL"
+      ],
+      "time": "Sep 30, 2024, 1:56 AM EDT",
+      "ago": "5 hours ago"
+    },
+    {
+      "url": "https://www.reuters.com/business/autos-transportation/stellantis-revises-guidance-downward-citing-performance-issues-industry-dynamics-2024-09-30/",
+      "img": "https://cdn.snapi.dev/images/v1/c/a/ste6-2622688-2669027.jpg",
+      "title": "Stellantis issues profit warning, cites global markets, Chinese competition",
+      "text": "Stellantis NV revised on Monday its guidance downward, citing a deterioration in global industry dynamics and Chinese competition on electric vehicles among other factors.",
+      "source": "Reuters",
+      "type": "Article",
+      "tickers": [
+        "$STLA",
+        "#BAR",
+        "#DBP",
+        "#GLD",
+        "#GLDM",
+        "#IAU",
+        "#OUNZ"
+      ],
+      "time": "Sep 30, 2024, 1:41 AM EDT",
+      "ago": "5 hours ago"
+    },
+    {
+      "url": "https://invezz.com/news/2024/09/30/byd-recalls-nearly-97000-dolphin-and-yuan-plus-evs-in-china-over-fire-risk-concerns/?utm_source=snapi",
+      "img": "https://cdn.snapi.dev/images/v1/o/i/resorts8-2669057.jpg",
+      "title": "BYD recalls nearly 97,000 Dolphin and Yuan Plus EVs in China over fire risk concerns",
+      "text": "BYD, one of China's leading electric vehicle manufacturers, is recalling nearly 97,000 of its electric vehicles (EVs) due to a manufacturing defect that poses potential fire hazards. The recall, annou...",
+      "source": "Invezz",
+      "type": "Article",
+      "tickers": [
+        "$BYD",
+        "#BAR",
+        "#DBP",
+        "#GLD",
+        "#GLDM",
+        "#IAU",
+        "#OUNZ"
+      ],
+      "time": "Sep 30, 2024, 12:56 AM EDT",
+      "ago": "6 hours ago"
+    },
+    {
+      "url": "https://invezz.com/news/2024/09/30/pdd-holdings-stock-has-rebounded-but-temu-risks-remain/?utm_source=snapi",
+      "img": "https://cdn.snapi.dev/images/v1/d/5/specialty7-2669082.jpg",
+      "title": "PDD Holdings stock has rebounded but Temu risks remain",
+      "text": "PDD Holdings' (PDD) stock price has staged a strong comeback in the past few weeks as investors embraced a risk-on sentiment. It has risen in the last five consecutive days, paring back the losses mad...",
+      "source": "Invezz",
+      "type": "Article",
+      "tickers": [
+        "$PDD",
+        "#BAR",
+        "#DBP",
+        "#GLD",
+        "#GLDM",
+        "#IAU",
+        "#OUNZ"
+      ],
+      "time": "Sep 30, 2024, 12:02 AM EDT",
+      "ago": "7 hours ago"
+    },
+    {
+      "url": "https://www.reuters.com/business/autos-transportation/byd-recalling-97000-top-selling-evs-steering-component-fault-regulator-says-2024-09-30/",
+      "img": "https://cdn.snapi.dev/images/v1/z/y/byd5-2449756-2668994.jpg",
+      "title": "BYD recalling 97,000 top-selling EVs on steering component fault, regulator says",
+      "text": "BYD has informed the Chinese regulator it is recalling nearly 97,000 electric vehicles (EVs) for a manufacturing fault involving a steering control unit that could lead to fire risks, the market regul...",
+      "source": "Reuters",
+      "type": "Article",
+      "tickers": [
+        "$PDD",
+        "#BAR",
+        "#DBP",
+        "#GLD",
+        "#GLDM",
+        "#IAU",
+        "#OUNZ"
+      ],
+      "time": "Sep 29, 2024, 11:14 PM EDT",
+      "ago": "8 hours ago"
+    },
+    {
+      "url": "https://www.investopedia.com/watch-these-gold-price-levels-as-precious-metal-trades-near-record-high-8720260",
+      "img": "https://cdn.snapi.dev/images/v1/g/o/gold3-2480910-2669015.jpg",
+      "title": "Watch These Gold Price Levels as Precious Metal Trades Near Record High",
+      "text": "Gold (GOLD) prices will likely remain in focus on Monday after setting record highs last week as several catalysts continue driving the demand for the metal as a hedge against currency deflation and g...",
+      "source": "Investopedia",
+      "type": "Article",
+      "tickers": [
+        "#AAAU",
+        "#DGP",
+        "#GLD",
+        "#GLDM",
+        "#IAU",
+        "#OUNZ",
+        "#UGL"
+      ],
+      "time": "Sep 29, 2024, 10:45 PM EDT",
+      "ago": "8 hours ago"
+    },
+    {
+      "url": "https://invezz.com/news/2024/09/30/nio-stock-price-could-enter-beast-mode-thanks-to-these-catalysts/?utm_source=snapi",
+      "img": "https://cdn.snapi.dev/images/v1/y/x/auto6-2669002.jpg",
+      "title": "Nio stock price could enter beast mode, thanks to these catalysts",
+      "text": "Nio (NYSE: NIO) stock price continued its strong comeback this month, as we had predicted several times, as you can see here and here. It soared to a high of $6.64 on Friday, its highest level since J...",
+      "source": "Invezz",
+      "type": "Article",
+      "tickers": [
+        "$NIO",
+        "#DGP",
+        "#GLD",
+        "#GLDM",
+        "#IAU",
+        "#OUNZ",
+        "#UGL"
+      ],
+      "time": "Sep 29, 2024, 10:02 PM EDT",
+      "ago": "9 hours ago"
+    },
+    {
+      "url": "https://www.reuters.com/markets/commodities/oil-prices-rise-middle-east-supply-risks-israel-steps-up-attacks-2024-09-30/",
+      "img": "https://cdn.snapi.dev/images/v1/r/o/oil19-2477175-2668965.jpg",
+      "title": "Oil prices rise on Middle East supply risks as Israel steps up attacks",
+      "text": "Oil prices edged higher on Monday on increasing concerns of potential supply disruptions from the Middle East producing region after Israel stepped up attacks on Iranian-backed forces.",
+      "source": "Reuters",
+      "type": "Article",
+      "tickers": [
+        "#BNO",
+        "#DBO",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 29, 2024, 8:55 PM EDT",
+      "ago": "10 hours ago"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/2537218/byd-dominates-brazilian-electric-vehicle-market-as-sales-surge",
+      "img": "https://cdn.snapi.dev/images/v1/v/g/vgfrewe-2482223-2668962.jpg",
+      "title": "BYD Dominates Brazilian Electric Vehicle Market as Sales Surge",
+      "text": "According to a study released by the Brazilian Association of Automotive Manufacturers (Anfavea) on September 27, sales of new all-electric or hybrid vehicles in Brazil are expected to surpass interna...",
+      "source": "GuruFocus",
+      "type": "Article",
+      "tickers": [
+        "#BNO",
+        "#DBO",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 29, 2024, 8:11 PM EDT",
+      "ago": "11 hours ago"
+    },
+    {
+      "url": "https://www.cnbc.com/2024/09/30/cvs-activist-glenview-karen-lynch.html",
+      "img": "https://cdn.snapi.dev/images/v1/3/j/cvs8-2456220-2668949.jpg",
+      "title": "Major CVS shareholder plans activist push, will meet with management, sources say",
+      "text": "Glenview Capital has amassed a sizable stake in CVS Health and plans to meet with the company's top executives to lay out its plan for value creation, according to people familiar with the matter. The...",
+      "source": "CNBC",
+      "type": "Article",
+      "tickers": [
+        "$CVS",
+        "#DBO",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 29, 2024, 8:09 PM EDT",
+      "ago": "11 hours ago"
+    },
+    {
+      "url": "https://www.wsj.com/health/healthcare/glenview-capital-plans-push-for-changes-at-cvs-5df8aa8a?mod=hp_lead_pos4",
+      "img": "https://cdn.snapi.dev/images/v1/c/v/cvs1-2488055-2668960.jpg",
+      "title": "Glenview Capital Plans Push for Changes at CVS",
+      "text": "The hedge fund has taken a large position in the healthcare company, which has seen its shares fall 24% this year to date",
+      "source": "WSJ",
+      "type": "Article",
+      "tickers": [
+        "$CVS",
+        "#DBO",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 29, 2024, 7:34 PM EDT",
+      "ago": "11 hours ago"
+    },
+    {
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/glenview-plans-activist-stance-push-changes-cvs-wsj-reports-2024-09-29/",
+      "img": "https://cdn.snapi.dev/images/v1/n/c/cvs5-2471345-2668927.jpg",
+      "title": "Glenview plans activist stance in push for changes at CVS, WSJ reports",
+      "text": "Healthcare-focused Glenview Capital Management has established a large position in CVS Health and will meet top executives at the struggling healthcare company on Monday to propose ways it can improve...",
+      "source": "Reuters",
+      "type": "Article",
+      "tickers": [
+        "$CVS",
+        "#DBO",
+        "#GUSH",
+        "#IEO",
+        "#OIH",
+        "#PXJ",
+        "#UCO"
+      ],
+      "time": "Sep 29, 2024, 7:27 PM EDT",
+      "ago": "11 hours ago"
+    }
+  ]
+}
